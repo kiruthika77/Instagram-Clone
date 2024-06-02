@@ -1,0 +1,36 @@
+.instagram-post {
+    display: flex;
+    border: 1px solid #e1e1e1;
+    margin: 10px;
+    padding: 10px;
+    max-width: 600px;
+}
+
+.instagram-post img {
+    max-width: 100%;
+    height: auto;
+}
+
+.post-details {
+    margin-left: 10px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.username {
+    font-weight: bold;
+}
+
+.caption {
+    margin-top: 5px;
+}
+
+.likes {
+    margin-top: 5px;
+    color: #999;
+}
